@@ -36,7 +36,7 @@ Two separate CNN models are trained and used together for better accuracy.
 ---
 
 ## 📂 Project Structure
-
+``` text
 Drowsiness-Detection/
 │
 ├── dataset/
@@ -60,7 +60,7 @@ Drowsiness-Detection/
 ├── evaluate_model.py
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
