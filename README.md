@@ -84,9 +84,9 @@ pip install -r requirements.txt
 
  ### 4. Training the Models
 - Train Eye Model
-  ``` bash 
-  python train_eye_model.py
-  ```
+```bash 
+python train_eye_model.py
+```
   
 - Train Yawn Model
  ``` bash 
