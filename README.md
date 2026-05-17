@@ -1,4 +1,4 @@
-# 😴 Drowsiness Detection System
+# Drowsiness Detection System
 
 A deep learning-based system that detects drowsiness using **eye state** and **yawning detection**.
 
