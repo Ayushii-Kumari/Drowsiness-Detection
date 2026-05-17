@@ -78,7 +78,9 @@ venv\Scripts\activate
 ```
 
 ### 3. Install dependencies
-- pip install -r requirements.txt
+``` bash 
+pip install -r requirements.txt
+```
 
  ### 4. Training the Models
 - Train Eye Model
@@ -92,7 +94,9 @@ venv\Scripts\activate
   ```
 
 ### 5. Models will be saved in:
-- Models/
+``` bash 
+Models/
+```
   
 ### 6. Model Evaluation
 ``` bash 
