@@ -117,7 +117,9 @@ Detects:
 - Eye closure
 - Yawning
 
-🧪 Dataset
+---
+
+### 🧪 Dataset
 
 The dataset contains:
 - Eye images → Open / Closed
@@ -126,7 +128,9 @@ The dataset contains:
 ⚠️ Dataset is not included due to size limitations.
 You can use your own dataset or download from external sources.
 
-🧠 Model Architecture
+---
+
+### 🧠 Model Architecture
 - Convolutional Neural Network (CNN)
 - Layers used:
   i) Conv2D
@@ -136,13 +140,17 @@ You can use your own dataset or download from external sources.
 - Optimizer: Adam
 - Loss Function: Binary Crossentropy
 
-📌 Key Features
+---
+
+### 📌 Key Features
 - Separate models for eye and yawn detection
 - Data augmentation for better generalization
 - Validation split for evaluation
 - Early stopping to prevent overfitting
 
-🔮 Future Improvements
+---
+
+### 🔮 Future Improvements
 - Real-time webcam integration
 - Alarm/alert system
 - Mobile or web deployment
