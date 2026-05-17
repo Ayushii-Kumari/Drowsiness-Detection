@@ -36,6 +36,7 @@ Two separate CNN models are trained and used together for better accuracy.
 ---
 
 ## 📂 Project Structure
+
 Drowsiness-Detection/
 │
 ├── dataset/
